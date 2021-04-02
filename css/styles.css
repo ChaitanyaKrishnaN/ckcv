@@ -1,0 +1,23 @@
+body{
+background-color: #f6f6f6;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-width: 3px;
+border-color: #66bfbfC;
+width: 5%;
+
+}
+h1,h3{
+
+color: #66bfbf;
+
+}
+
+
+ a.hobbies:hover, a.contact:hover  {
+
+
+background-color: green;
+ }
